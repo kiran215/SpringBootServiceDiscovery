@@ -1,5 +1,5 @@
 # SpringBootServiceDiscovery
-Sprong boot service discovery implementation
+Spring boot service discovery implementation
 In this implementation, we have created 3 Microservices as follows and all has been registered as a client in Eureka Discovery server.
 
 Microservices - 
