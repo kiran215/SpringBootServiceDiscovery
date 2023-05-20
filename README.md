@@ -15,6 +15,7 @@ Maven dependancy used for registering application as client in eureka disocvery 
 		</dependency>
     
 Created a Eureka server with Spring boot and below maven dependancies.
+		
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
